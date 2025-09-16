@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Ruffin (ruff27) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ruffin27-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruffin27/)
@@ -42,4 +41,3 @@ If you want, I can expand any project entry with short feature lists, tech-stack
 Traveling ✈️ | Music 🎵 | Sports ⚽
 
 ---
-```
