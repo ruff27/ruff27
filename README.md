@@ -1,8 +1,6 @@
 # Hi, I'm Ruffin (ruff27) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ruffin27-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruffin27/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruff27&layout=compact&theme=tokyonight)](https://github.com/ruff27)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruff27&show_icons=true&theme=tokyonight)](https://github.com/ruff27)
 
 I’m a Bachelor of Computer Science (Software Development) graduate building polished web experiences and experimenting with blockchain and IoT. I enjoy turning ideas into usable, user-focused products.
 
